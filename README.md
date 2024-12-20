@@ -117,7 +117,7 @@
 <!------------------------------------------------------------------------------------------>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AndreCuenca17/AndreCuenca17/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation">
+  <img src="https://raw.githubusercontent.com/AndreCuenca17/AndreCuenca17/output/github-contribution-grid-snake-dark.svg" alt="github contribution grid snake animation">
 </p>
 
 

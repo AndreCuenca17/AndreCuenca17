@@ -116,3 +116,7 @@
 </div>
 <!------------------------------------------------------------------------------------------>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AndreCuenca17/AndreCuenca17/output/snake.svg" alt="github contribution grid snake animation">
+</p>
+

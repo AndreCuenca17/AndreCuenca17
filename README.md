@@ -97,12 +97,12 @@
 
 <!------------------------------------------------------------------------------------------>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bastndev&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![AndreCuenca17's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AndreCuenca17&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!------------------------------------------------------------------------------------------>
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bastndev&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Bastian Dev github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AndreCuenca17&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="AndreCuenca17's github stats" /> 
   
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastndev&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreCuenca17&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
 </div> 
 <!------------------------------------------------------------------------------------------>
 
@@ -111,15 +111,15 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count 👽 </b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{👽}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{AndreCuenca17}/count.svg" /></p> 
 <br>
 </div>
 <!------------------------------------------------------------------------------------------>
 
 <p align="center">
 	<picture>
-		  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake-dark.svg">
-		  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake.svg">
-		  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake.svg">
+		  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndreCuenca17/AndreCuenca17/output/github-contribution-grid-snake-dark.svg">
+		  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AndreCuenca17/AndreCuenca17/output/github-contribution-grid-snake.svg">
+		  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AndreCuenca17/AndreCuenca17/output/github-contribution-grid-snake.svg">
 	</picture>
 </p>

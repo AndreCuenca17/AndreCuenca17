@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=02D9F7FF&center=true&vCenter=true&random=false&width=1000&lines=Welcome,+I'm+Andre+Cuenca+👋" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=02D9F7FF&center=true&vCenter=true&random=false&width=1000&lines=Welcome,+I'm+Andre+Cuenca+👋" alt="Typing SVG" />
   </a>
 </p>
 
@@ -95,13 +95,7 @@
 
 <br> 
 
----
-
-<p align = "center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
-</p>
 <!------------------------------------------------------------------------------------------>
-
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bastndev&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!------------------------------------------------------------------------------------------>

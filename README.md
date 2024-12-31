@@ -95,8 +95,6 @@
 
 <br> 
 
-<!------------------------------------------------------------------------------------------>
-
 [![AndreCuenca17's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AndreCuenca17&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!------------------------------------------------------------------------------------------>
 <div align="center">  
@@ -104,8 +102,6 @@
   
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreCuenca17&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
 </div> 
-<!------------------------------------------------------------------------------------------>
-
 
 <!------------------------------------------------------------------------------------------>
 
@@ -115,9 +111,6 @@
 <br>
 </div>
 <!------------------------------------------------------------------------------------------>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/AndreCuenca17/AndreCuenca17/output/github-contribution-grid-snake-dark.svg" alt="github contribution grid snake animation">
 </p>
-
-

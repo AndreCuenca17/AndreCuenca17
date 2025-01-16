@@ -13,7 +13,6 @@
 
 <br><br>
 - 👨‍💻 I am a Software Engineering student at the [National University of San Marcos](https://www.unmsm.edu.pe/).
-- 🎓 Ranked `1st` in the Software Engineering Program.
 - 📚 Intermediate proficiency in English `TOEFL ITP - B1`.
 - 🖥️ Skilled in foundational programming, including `Algorithms`, `Object Oriented Programming (OOP)`, `Data Structures`, and `Logic`.
 - ✨ Always eager to learn new technologies and improve my skills.
